@@ -1,4 +1,5 @@
-## Hi there 👋
+## j'aime le poulet curry, et vous ?
+
 
 <!--
 **Leo-Galien/Leo-Galien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
