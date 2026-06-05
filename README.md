@@ -3,7 +3,7 @@
 
 #### Langages & Frameworks:
 
-#### Python, java, c# ,.NET
+#### Python, java, c# ,.NET, Bases Assembleur
 <!--
 **Leo-Galien/Leo-Galien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
