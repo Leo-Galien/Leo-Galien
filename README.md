@@ -1,7 +1,7 @@
 ## j'aime le poulet curry, et vous ?
 
 
-#### Languages & Frameworks:
+#### Langages & Frameworks:
 
 #### Python, java, c# ,.NET
 <!--
