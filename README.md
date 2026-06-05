@@ -1,6 +1,9 @@
-## j'aime le poulet curry, et vous ?
+### j'aime le poulet curry, et vous ?
 
 
+##Languages & Frameworks:
+
+##Python, java, c# ,.NET
 <!--
 **Leo-Galien/Leo-Galien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
