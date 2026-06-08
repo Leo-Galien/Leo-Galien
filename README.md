@@ -1,9 +1,9 @@
 ## j'aime le poulet curry, et vous ?
 
 
-#### Langages & Frameworks:
+#### Langages:
 
-#### Python, java, c# ,.NET, Bases Assembleur
+#### Python, java, c#, Bases Assembleur
 <!--
 **Leo-Galien/Leo-Galien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
