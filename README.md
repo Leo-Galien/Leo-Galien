@@ -1,20 +1,16 @@
-## j'aime le poulet curry, et vous ?
+# 👋 Hi, I'm Léo GALIEN
 
+Welcome to my github page
 
-#### Langages:
+## About me
+- 💻 1st year in **BUT informatique** at the **Robert Schuman IUT**, Illkirch
+- 🌱 Currenctly learning java and c
+- 🔭 Working on :
+  - 🕯  an *Inscryption* clone in java
+  - 🖥️ a simplified network simulator in c
+- 📫 Contact me at leo.galien114@gmail.com
 
-#### Python, java, c#, Bases Assembleur
-<!--
-**Leo-Galien/Leo-Galien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+- Langages : Java, c#, c, assembly(kinda)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Thanks for stopping by!
