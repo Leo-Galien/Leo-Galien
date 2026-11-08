@@ -3,11 +3,10 @@
 Welcome to my github page
 
 ## About me
-- 1st year in **BUT informatique** at the **Robert Schuman IUT**, Illkirch
+- 2nd year of **BUT informatique** at the **Robert Schuman IUT**, Illkirch
 - Currenctly learning java and c
 - Working on :
-  an *Inscryption* clone in java
-  🖥️ a simplified network simulator in c
+  packages sorting center simulation in c
 - Contact me at leo.galien114@gmail.com
 
 ## Skills
