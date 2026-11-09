@@ -1,15 +1,15 @@
-# Hi, I'm Léo GALIEN
+# Bonjour, je suis Léo GALIEN
+Actuellement etudiant en **BUT informatique** a l'**IUT Robert Schuman**, Illkirch(67)
+  
+## Je travaille sur :
+  
+### Projets de groupes universiataires:
+  - Simulateur de centre de tri de colis en c (pipes, signaux, threads) 
+  - "Jeux serieux": jeu de gestion, simulteur systeme educatif (Gestion de projet, cahier des charges, collaboration, godot)
 
-Welcome to my github page
+### Projets persos:
+  - ...
 
-## About me
-- 2nd year of **BUT informatique** at the **Robert Schuman IUT**, Illkirch
-- Currenctly learning java and c
-- Working on :
-  packages sorting center simulation in c
-- Contact me at leo.galien114@gmail.com
+Contact: leo.galien114@gmail.com
 
-## Skills
-- Langages : Java, c#, c, assembly(kinda)
-
- Thanks for stopping by!
+##Thanks for stopping by!
