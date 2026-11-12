@@ -8,7 +8,7 @@ Actuellement etudiant en **BUT informatique** a l'**IUT Robert Schuman**, Illkir
   - "Jeux serieux": jeu de gestion, simulteur systeme educatif (Gestion de projet, cahier des charges, collaboration, godot)
 
 ### Projets persos:
-  - ...
+  - Site de gestion de stocks/ventes ( ~10% ) 
 
 Contact: leo.galien114@gmail.com
 
